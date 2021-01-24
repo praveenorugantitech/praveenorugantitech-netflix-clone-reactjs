@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-netflix-clone-reactjs/static/css/main.19040c25.chunk.css",
+    "main.js": "/praveenorugantitech-netflix-clone-reactjs/static/js/main.1b6e1fe5.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-netflix-clone-reactjs/static/js/runtime-main.42e1a8c7.js",
+    "static/js/2.70046148.chunk.js": "/praveenorugantitech-netflix-clone-reactjs/static/js/2.70046148.chunk.js",
+    "index.html": "/praveenorugantitech-netflix-clone-reactjs/index.html",
+    "static/js/2.70046148.chunk.js.LICENSE.txt": "/praveenorugantitech-netflix-clone-reactjs/static/js/2.70046148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e1a8c7.js",
+    "static/js/2.70046148.chunk.js",
+    "static/css/main.19040c25.chunk.css",
+    "static/js/main.1b6e1fe5.chunk.js"
+  ]
+}
