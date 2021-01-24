@@ -1,10 +1,9 @@
 # Netflix Clone developed using React JS
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-netflix-clone/src/images/screenshot1.PNG "Netflix Clone")
-
-
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-netflix-clone/src/images/screenshot2.PNG "Netflix Clone")
-
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot1.PNG" />
+<img align="right" width="100%"  src="./src/images/screenshot2.PNG" />
+</div>
 
 
 [Live Demo](https://praveenoruganti-netflix-clone.firebaseapp.com/)
