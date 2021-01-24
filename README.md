@@ -6,4 +6,4 @@
 </div>
 
 
-[Live Demo](https://praveenoruganti-netflix-clone.firebaseapp.com/)
+[Live Demo](hthttps://praveenorugantitech.github.io/praveenorugantitech-netflix-clone-reactjs/)
